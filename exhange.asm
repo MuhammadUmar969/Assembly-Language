@@ -13,7 +13,6 @@ mov ah,02
 mov dl,al
 int 21h
 
-
 mov ah,4ch
 int 21h
 end Start
